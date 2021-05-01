@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/davidwr/worker-consumer-example/issues"
   },
-  "homepage": "https://github.com/davidwr/worker-consumer-example#readme"
+  "homepage": "https://github.com/davidwr/worker-consumer-example#readme",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "dotenv": "^8.2.0",
+    "pino": "^6.11.3",
+    "shortid": "^2.2.16"
+  }
 }
